@@ -1,3 +1,9 @@
+# Group members: 
+# 1. Shifra Avigdor 207067125
+# 2. Daniel Boguslavsky 207915729
+# 3. David Moalem 203387337
+# 4. Ethan Stryzhack 336244959
+
 import numpy as np
 from numpy.linalg import norm
 from colors import bcolors
